@@ -1,8 +1,9 @@
 # Digital Recognizer
 
-Here is a NN model solution for digit recognizer.  
+Here I built a NN model with the famous MNNIST data to form a digit recognizer.  
 
-Original Competition from Kaggle
-https://www.kaggle.com/competitions/digit-recognizer
+#### The submission accuracy score is up to 98.725%
 
-The submission accuracy score is up to 98.725%
+Original Competition from Kaggle:  
+https://www.kaggle.com/competitions/digit-recognizer. 
+The goal of this competition is to correctly identify digits from a dataset of handwritten images. 
